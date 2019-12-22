@@ -1,0 +1,56 @@
+body{
+	margin: 0;
+	font-size: 20px;
+	line-height: 30px;
+}
+header{
+	background-color: #FFF3C5;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+header h1{
+	color:#797D7F;
+font-family: 'Beth Ellen', cursive;
+font-size: 40px;
+}
+ h2{
+	color: #797D7F;
+font-family: 'Inria Serif', serif;
+	font-size: 40px;
+	margin: 35px;
+}
+header img{
+	border-radius: 200px;
+	width: 500px;
+	border: 2px solid #FFFFFF
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+main img{
+	max-width: 100%
+}
+
+a{
+	color:#797D7F;
+}
+a:hover{
+	color: white
+	background-color: black
+}
+
+footer{
+	background-color: #FFF3C5;
+	text-align: center
+
+}
+p.caption{
+	color: #000000;
+	font-size: 14px;
+	font-style: italic;
+	margin-top: 0;
+}
